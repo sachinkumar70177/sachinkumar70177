@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# 💫 About Me:
+# 💫 About Sachin:
 Skilled Full Stack Web Developer with expertise in the MERN stack, including React.js and Node.js. Proven leadership abilities in coordinating and guiding teams collaboratively. Seeking opportunities to apply skills and foster innovation in a challenging and dynamic work environment.
 
 
