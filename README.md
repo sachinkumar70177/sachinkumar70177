@@ -20,8 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sachinpate95178" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-000000?logo=twitter&logoColor=white" height="30" width="50" /></a>
-<a href="https://linkedin.com/in/sachinkumar70177" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="sachinkumar70177" height="30" width="50" /></a>
+<a href="https://twitter.com/sachinpate95178" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-000000?logo=twitter&logoColor=white" height="30" width="50" /></a>
+<a href="https://linkedin.com/in/sachinkumar70177" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="sachinkumar70177" height="30" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
