@@ -8,9 +8,9 @@
 
 - 💬 Ask me about **react,redux**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sachinkumar70177](https://github.com/sachinkumar70177)
+- 👨‍💻 All of my projects are available on <a href="https://github.com/sachinkumar70177" target="_blank">Github</a>
 
-- 👨‍💻 Also my projects are available on my portfolio [https://sachinkumar70177.github.io/](https://sachinkumar70177.github.io/)
+- 👨‍💻 Also my projects are available on <a href="https://sachinkumar70177.github.io/" target="_blank">My Portfolio </a>
 
 - 📫 Reach me via Email-Id **sachinaptel.k.786@gmail.com**
 
