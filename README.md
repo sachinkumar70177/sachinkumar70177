@@ -33,7 +33,7 @@
 </p>
 
 
-<h3 align="left">Connect with me:</h3>
+**<h3 align="left">Connect with me:</h3>**
 <p align="left">
     <a href="https://twitter.com/sachinpate95178" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=twitter&logoColor=white" height="30" width="120" />
@@ -97,14 +97,28 @@
     </a>
 </p>
 
+<!-- Left Card -->
+<p align="left">
+    <a href="https://github-readme-stats.vercel.app/api/top-langs?username=sachinkumar70177&show_icons=true&locale=en&layout=compact" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinkumar70177&show_icons=true&locale=en&layout=compact" alt="sachinkumar70177" />
+    </a>
+</p>
+
+<!-- Right Card -->
+                                               
+<p align="right">
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=sachinkumar70177" target="_blank">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachinkumar70177" alt="sachinkumar70177" />
+    </a>
+</p>
 
 
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinkumar70177&show_icons=true&locale=en&layout=compact" alt="sachinkumar70177" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinkumar70177&show_icons=true&locale=en" alt="sachinkumar70177" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinkumar70177" alt="sachinkumar70177" /></p>
+<!-- Middle Card -->
+<p align="center">
+    <a href="https://github-readme-stats.vercel.app/api?username=sachinkumar70177&show_icons=true&locale=en" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api?username=sachinkumar70177&show_icons=true&locale=en" alt="sachinkumar70177" />
+    </a>
+</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sachinkumar70177&limit=5&theme=flat&combine_all_yearly_contributions=true)
