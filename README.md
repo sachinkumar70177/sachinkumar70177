@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sachinaptel.k.786@gmail.com**
 
-- 📫 Reach me via Linkedin [https://www.linkedin.com/in/sachinkumar70177/](https://www.linkedin.com/in/sachinkumar70177/)
+- 📫 Reach me via  <a href="https://www.linkedin.com/in/sachinkumar70177/" target="_blank">Linkedin</a>
 
 - ⚡ Fun fact **I am funny**
 
