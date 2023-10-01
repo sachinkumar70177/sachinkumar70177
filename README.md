@@ -12,7 +12,7 @@
 
 - 👨‍💻 Also my projects are available on <a href="https://sachinkumar70177.github.io/" target="_blank">My Portfolio </a>
 
-- 📫 Reach me via Email-Id <a href="mailto:sachinaptel.k.786@gmail.com">sachinaptel.k.786@gmail.com</a>
+- 📫 Reach me via  <a href="mailto:sachinaptel.k.786@gmail.com">Email-Id</a>
 
 - 📫 Reach me via  <a href="https://www.linkedin.com/in/sachinkumar70177/" target="_blank">Linkedin</a>
 
