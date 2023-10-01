@@ -96,29 +96,48 @@
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" style="width: 120px; height: 30px;"/>
     </a>
 </p>
-
-<!-- Left Card -->
+<!-- GitHub Activity Graph -->
+<h3>💭 GitHub Activity Graph</h3>
 <p align="left">
-    <a href="https://github-readme-stats.vercel.app/api/top-langs?username=sachinkumar70177&show_icons=true&locale=en&layout=compact" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinkumar70177&show_icons=true&locale=en&layout=compact" alt="sachinkumar70177" />
+    <a href="https://github-readme-activity-graph.vercel.app/graph?username=sachinkumar70177&bg_color=ffffff">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachinkumar70177&bg_color=ffffff" alt="GitHub Activity Graph" width="500"/>
+    </a>
+</p>
+
+<!-- Middle Card -->
+<h3  align="middle">
+    📝 Github stats</h3>
+<p align="center">
+    <a href="https://github-readme-stats.vercel.app/api?username=sachinkumar70177&show_icons=true&locale=en" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api?username=sachinkumar70177&show_icons=true&locale=en" alt="sachinkumar70177" width="500" height="180"/>
     </a>
 </p>
 
 <!-- Right Card -->
-                                               
+
+<h3 align="right">🔥 Github Streak</h3>
+                                           
 <p align="right">
     <a href="https://github-readme-streak-stats.herokuapp.com/?user=sachinkumar70177" target="_blank">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachinkumar70177" alt="sachinkumar70177" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachinkumar70177" alt="sachinkumar70177" width="500" height="180"/>
     </a>
 </p>
 
 
-<!-- Middle Card -->
-<p align="center">
-    <a href="https://github-readme-stats.vercel.app/api?username=sachinkumar70177&show_icons=true&locale=en" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=sachinkumar70177&show_icons=true&locale=en" alt="sachinkumar70177" />
+<!-- Left Card -->
+<h3 align ="middle">🤝 Most used language</h3>
+<p align="middle">
+    <a href="https://github-readme-stats.vercel.app/api/top-langs?username=sachinkumar70177&show_icons=true&locale=en&layout=compact" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinkumar70177&show_icons=true&locale=en&layout=compact" alt="sachinkumar70177" width="500" height="180"/>
     </a>
 </p>
+
+
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sachinkumar70177&limit=5&theme=flat&combine_all_yearly_contributions=true)
+<p align ="left">
+    <a href="https://github-contributor-stats.vercel.app/api?username=sachinkumar70177&limit=5&theme=flat&combine_all_yearly_contributions=true">
+<img src="https://github-contributor-stats.vercel.app/api?username=sachinkumar70177&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats"/>
+        </a>
+</p>
+
