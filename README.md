@@ -10,7 +10,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sachinkumar70177](https://github.com/sachinkumar70177)
 
+- 👨‍💻 Also my projects are available on my portfolio [https://sachinkumar70177.github.io/](https://sachinkumar70177.github.io/)
+
 - 📫 How to reach me **sachinaptel.k.786@gmail.com**
+
+- 📫 Reach me via Linkedin [https://www.linkedin.com/in/sachinkumar70177/](https://www.linkedin.com/in/sachinkumar70177/)
 
 - ⚡ Fun fact **I am funny**
 
