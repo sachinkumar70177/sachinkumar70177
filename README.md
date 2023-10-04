@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **react,redux**
 
-- 👨‍💻 All of my projects are available on <a href="https://github.com/sachinkumar70177" target="_blank"/>
+- 👨‍💻 All of my projects are available on <p><a href="https://github.com/sachinkumar70177" target="_blank" />Github</p>
 
 - 👨‍💻 Also my projects are available on <a href="https://sachinkumar70177.github.io/" target="_blank">My Portfolio </a>
 
