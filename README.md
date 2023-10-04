@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available on <p><a onclick="window.open('https://github.com/sachinkumar70177', ''); return false" href="javascript:void(0);" />Github</p>
 
-- 👨‍💻 Also my projects are available on <a href="https://sachinkumar70177.github.io/" target="_blank">My Portfolio </a>
+- 👨‍💻 Also my projects are available on [My Portfolio](https://sachinkumar70177.github.io/){:target="_blank"}
 
 - 📫 Reach me via  <a href="mailto:sachinaptel.k.786@gmail.com">Email-Id</a>
 
