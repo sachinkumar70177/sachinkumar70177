@@ -96,6 +96,11 @@
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" style="width: 120px; height: 30px;"/>
     </a>
 </p>
+
+
+
+
+
 <!-- GitHub Activity Graph -->
 <h3 align="center">💭 GitHub Activity Graph</h3>
 <p align="center">
@@ -112,6 +117,9 @@
         <img src="https://github-readme-stats.vercel.app/api?username=sachinkumar70177&show_icons=true&locale=en" alt="sachinkumar70177" width="500" height="180"/>
     </a>
 </p>
+
+
+
 
 <!-- Right Card -->
 
@@ -136,8 +144,8 @@
 <h3 align ="center">🔝 Top Contributed Repo</h3>
 
 <p align ="center">
-    <a href="https://github-contributor-stats.vercel.app/api?username=sachinkumar70177&limit=5&theme=flat&combine_all_yearly_contributions=true">
-<img src="https://github-contributor-stats.vercel.app/api?username=sachinkumar70177&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats"/>
+    <a href="https://github-contributor-stats.vercel.app/api?username=sachinkumar70177&limit=5&theme=flat&combine_all_yearly_contributions=true" >
+<img src="https://github-contributor-stats.vercel.app/api?username=sachinkumar70177&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
         </a>
 </p>
 
