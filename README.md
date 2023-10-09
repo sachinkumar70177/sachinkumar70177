@@ -97,15 +97,15 @@
     </a>
 </p>
 <!-- GitHub Activity Graph -->
-<h3>💭 GitHub Activity Graph</h3>
-<p align="left">
+<h3 align="center">💭 GitHub Activity Graph</h3>
+<p align="center">
     <a href="https://github-readme-activity-graph.vercel.app/graph?username=sachinkumar70177&bg_color=ffffff">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachinkumar70177&bg_color=ffffff" alt="GitHub Activity Graph" width="500"/>
     </a>
 </p>
 
 <!-- Middle Card -->
-<h3  align="middle">
+<h3  align="center">
     📝 Github stats</h3>
 <p align="center">
     <a href="https://github-readme-stats.vercel.app/api?username=sachinkumar70177&show_icons=true&locale=en" target="_blank">
@@ -115,9 +115,9 @@
 
 <!-- Right Card -->
 
-<h3 align="right">🔥 Github Streak</h3>
+<h3 align="center">🔥 Github Streak</h3>
                                            
-<p align="right">
+<p align="center">
     <a href="https://github-readme-streak-stats.herokuapp.com/?user=sachinkumar70177" target="_blank">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachinkumar70177" alt="sachinkumar70177" width="500" height="180"/>
     </a>
@@ -125,17 +125,17 @@
 
 
 <!-- Left Card -->
-<h3 align ="middle">🤝 Most used language</h3>
-<p align="middle">
+<h3 align ="center">🤝 Most used language</h3>
+<p align="center">
     <a href="https://github-readme-stats.vercel.app/api/top-langs?username=sachinkumar70177&show_icons=true&locale=en&layout=compact" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinkumar70177&show_icons=true&locale=en&layout=compact" alt="sachinkumar70177" width="500" height="180"/>
     </a>
 </p>
 
 
+<h3 align ="center">🔝 Top Contributed Repo</h3>
 
-### 🔝 Top Contributed Repo
-<p align ="left">
+<p align ="center">
     <a href="https://github-contributor-stats.vercel.app/api?username=sachinkumar70177&limit=5&theme=flat&combine_all_yearly_contributions=true">
 <img src="https://github-contributor-stats.vercel.app/api?username=sachinkumar70177&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats"/>
         </a>
